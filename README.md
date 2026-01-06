@@ -36,3 +36,6 @@ Starting Metro Bundler
 › Press o │ open project code in your editor
 
 › Press ? │ show all commands
+
+
+<img width="247" height="307" alt="image" src="https://github.com/user-attachments/assets/85c1f264-8d8e-4351-b321-436b88ef4f68" />

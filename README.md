@@ -1,7 +1,6 @@
 # sk-tasks
 
-D:\works\web\KDJ web\WEB PROJECTS\AI TRANING\MOBILE APP PROJECTS\PROJECT01\sk-tasks>npx expo start    
-Starting project at D:\works\web\KDJ web\WEB PROJECTS\AI TRANING\MOBILE APP PROJECTS\PROJECT01\sk-tasks
+
 React Compiler enabled
 Starting Metro Bundler
 ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
